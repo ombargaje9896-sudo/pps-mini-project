@@ -1,0 +1,62 @@
+[
+    {
+        "roll_no": "101",
+        "name": "Aarav Patil",
+        "course": "CSE AI & ML",
+        "marks": {
+            "Mathematics": 92,
+            "Physics": 88,
+            "Chemistry": 81,
+            "Python": 95,
+            "English": 85
+        }
+    },
+    {
+        "roll_no": "102",
+        "name": "Anaya Sharma",
+        "course": "CSE AI & ML",
+        "marks": {
+            "Mathematics": 78,
+            "Physics": 72,
+            "Chemistry": 80,
+            "Python": 84,
+            "English": 76
+        }
+    },
+    {
+        "roll_no": "103",
+        "name": "Rohan Deshmukh",
+        "course": "CSE AI & ML",
+        "marks": {
+            "Mathematics": 70,
+            "Physics": 65,
+            "Chemistry": 32,
+            "Python": 83,
+            "English": 75
+        }
+    },
+    {
+        "roll_no": "104",
+        "name": "Isha Kulkarni",
+        "course": "CSE AI & ML",
+        "marks": {
+            "Mathematics": 90,
+            "Physics": 91,
+            "Chemistry": 93,
+            "Python": 96,
+            "English": 94
+        }
+    },
+    {
+        "roll_no": "105",
+        "name": "Kabir Khan",
+        "course": "CSE AI & ML",
+        "marks": {
+            "Mathematics": 58,
+            "Physics": 61,
+            "Chemistry": 56,
+            "Python": 67,
+            "English": 64
+        }
+    }
+]
